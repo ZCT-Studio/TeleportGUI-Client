@@ -1,0 +1,9 @@
+{
+  "key.category.teleportgui.shortcuts": "TeleportGUI",
+  "key.teleportgui.tpa": "TPA 菜单",
+  "key.teleportgui.tpaRequest": "TPA 请求",
+  "key.teleportgui.home": "家",
+  "key.teleportgui.warp": "传送点",
+  "key.teleportgui.back": "返回上次位置",
+  "key.teleportgui.deathLocation": "死亡点"
+}

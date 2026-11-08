@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "${id}",
+  "version": "${version}",
+  "name": "${name}",
+  "description": "${description}",
+  "license": "${license}",
+  "environment": "client",
+  "entrypoints": { "client": ["io.github.zct_studio.teleportgui.client.FabricClientEntry"] },
+  "depends": { "fabricloader": "*", "fabric-api": "*", "minecraft": "${semver_mc_version_range}" }
+}

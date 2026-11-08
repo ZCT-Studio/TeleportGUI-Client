@@ -1,0 +1,16 @@
+modLoader = "javafml"
+loaderVersion = "*"
+license = "${license}"
+[[mods]]
+modId = "${id}"
+version = "${version}"
+displayName = "${name}"
+description = '''
+Client key bindings for TeleportGUI commands.
+'''
+[[dependencies.${id}]]
+modId = "minecraft"
+type = "required"
+versionRange = "${maven_mc_version_range}"
+ordering = "NONE"
+side = "CLIENT"

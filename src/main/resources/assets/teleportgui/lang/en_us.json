@@ -1,0 +1,9 @@
+{
+  "key.category.teleportgui.shortcuts": "TeleportGUI",
+  "key.teleportgui.tpa": "TPA menu",
+  "key.teleportgui.tpaRequest": "TPA requests",
+  "key.teleportgui.home": "Homes",
+  "key.teleportgui.warp": "Warps",
+  "key.teleportgui.back": "Back",
+  "key.teleportgui.deathLocation": "Death location"
+}
